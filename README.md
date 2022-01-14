@@ -26,7 +26,7 @@ stuffs to reduce time complexity and helps to claim first blood. ⛳ 😀
 
 # Usage :
 
- Step 1:  ```git clone https://```
+ Step 1:  ```gh repo clone palanioffcl/CTF-Recon```
    
  Step 2:  ```chmod +x recon.sh```
 
