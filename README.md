@@ -10,11 +10,10 @@
  ```
  
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/palanioffcl/CTFation?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/palanioffcl/CTFation?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/palanioffcl/CTFation?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/palanioffcl/CTFation?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/palanioffcl/CTFation?color=34A853&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/palanioffcl/CTFation?color=FFBB00&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/palanioffcl/CTFation?color=EA4335&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/palanioffcl/CTFation?color=4285F4&style=for-the-badge">
 </p>
 
 # About: 
