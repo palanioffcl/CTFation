@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/palanioffcl/CTFation?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/palanioffcl/CTFation?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/palanioffcl/CTFation?color=violet&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/palanioffcl/CTFation?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/palanioffcl/CTFation?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/palanioffcl/CTFation?style=for-the-badge">
 </p>
 
 # About: 
